@@ -91,13 +91,13 @@ cd mail-parser
 2. Install dependencies:
 
 ```bash
-npm install
+yarn install
 ```
 
 3. Start the server:
 
 ```bash
-npm run start:dev
+yarn start:dev
 ```
 
 ---
